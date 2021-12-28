@@ -1,0 +1,30 @@
+.SideBar_item{
+    font-weight: 600;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    cursor: pointer;
+}
+.SideBar_item:hover{
+    border-radius: 5px;
+    background: #badafa;
+    text-decoration: underline;
+}
+a{
+    font-weight: 600;
+    color: black;
+    text-decoration: none;
+
+}
+a:hover{
+    color: black;
+    text-decoration: underline;
+}
+.SideBar_item_disabled{
+    opacity: 0.6;
+    cursor: default;
+    font-weight: 600;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+}

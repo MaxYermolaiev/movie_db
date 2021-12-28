@@ -1,0 +1,46 @@
+.settings_title{
+    margin-top: 10px ;
+    padding: 10px;
+    cursor: pointer;
+}
+li{
+    list-style: none;
+}
+.settings_title.active{
+    border-radius: 10px;
+    border: 2px solid #7cbbf8;
+    padding: 10px;
+    background-color: #e8efff;
+    font-weight: 700;
+}
+.settings_extended_false{
+    display:none;
+}
+.settings_extended_personal{
+    display:block;
+}
+.settings_extended_personal{
+    display:block;
+}
+.settings_extended_personal{
+    display:block;
+}
+.settings_extended-save_button{
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-top:20px;
+}
+.settings_extended-row{
+margin-bottom: 10px;
+}
+.settings_extended-row button{
+   border-radius: 10px;
+}
+.settings_extended_input{
+    max-width: 50%;
+    margin-right: 15px;
+    border-radius: 10px;
+}
+.settings_extended_button{
+    border-radius: 10px;
+}

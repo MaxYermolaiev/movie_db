@@ -1,0 +1,20 @@
+
+
+.card-head{
+    box-shadow: 4px 4px 15px 0px rgba(34, 60, 80, 0.2);
+    border-radius: 10px;
+}
+.card-header{
+    border-radius: 10% 30% 0% 0%;
+
+}
+img{
+    border-radius: 10px 10px 10px 10px ;
+}
+.card-body{
+    box-shadow: 4px 4px 15px 0px rgba(34, 60, 80, 0.2);
+    border-radius: 10px;
+}
+.card{
+    border:none
+}

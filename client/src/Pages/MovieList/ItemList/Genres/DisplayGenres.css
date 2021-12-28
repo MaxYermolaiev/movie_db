@@ -1,0 +1,25 @@
+.genre-header{
+    opacity: 0.8;
+}
+.genres-card{
+    cursor: pointer;
+    font-weight: 300;
+}
+.genres_item{
+    margin: 10px;
+    text-shadow: 1px 0px 7px rgba(150, 150, 150, 1);
+}
+.genres_item:hover{
+    text-decoration: underline;
+    transform: scale(1.1);
+    transition: 0.2s;
+}
+.genres_item_list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.genre{
+    max-width: 100%;
+    margin-top: 20px;
+}

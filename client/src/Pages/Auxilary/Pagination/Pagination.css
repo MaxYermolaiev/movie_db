@@ -1,0 +1,8 @@
+.page-item{
+    border-radius: 10px;
+    cursor: pointer;
+}
+.page-item activie{
+    border-radius: 10px;
+    box-shadow: cadetblue;
+}
